@@ -161,7 +161,6 @@ numPHYS=   5 valPHYS=  0.100E+04 typPHYS= R namPHYS= E0
 &emsp; Example of file with a more complex image (_motor.vxc_) with the dimensions of the working area **33 х 33 х 15**. On the left is an image of the file _motor.vxc_ in _VoxCad_, on the right is an image in _ParaVew_ of the generated file _MOTOR_bin.vtk_.  
 
 ![ ](./img/motor.jpg)    
-![ ](https://github.com/JNSresearcher/convert_VoxCad_data/blob/main/img/motor.jpg)  
 
 &emsp; _**Note**_. The generated _vtk_ binary can be loaded to other graphic 3D editors (for example _FreeCad_, etc.).  From _ParaView_ on can export an image to other formats: _x3d_, _vrml_, etc.  
 
