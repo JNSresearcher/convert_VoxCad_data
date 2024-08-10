@@ -43,7 +43,6 @@ Run the executable: _./vxc2data_ or _vxc2data.exe_. As a result, 2 output files 
 &emsp; Example of a simple file (_example1.vxc_) with the dimensions of the working area **5 х 5 х 5**. On the left is an image of the file _example1.vxc_ in _VoxCad_, on the right is an image in _ParaVew_ of the generated file _example1.vtk_.  
        
 ![ ](./img/example1.jpg)   
-![ ](https://github.com/JNSresearcher/convert_VoxCad_data/blob/main/img/example1.jpg)  
 
 &emsp; First, in _VoxCad_ the 4  domains were entered, then a line with additional data.  
 &emsp; Text entered for domains:
